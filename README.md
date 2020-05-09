@@ -178,10 +178,6 @@ $ python ./DECoNT_polish.py -g 5 -m pretrained -cn XHMM -i /home/user/analysis.t
 
 ## Citations
 
-If you use DECoNT in your research, please cite it.
-
-- Bibtex citation
-
 ---
 
 ## License
