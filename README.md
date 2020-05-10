@@ -178,7 +178,8 @@ $ python ./DECoNT_polish.py -g 5 -m pretrained -cn XHMM -i /home/user/analysis.t
 
 ## Running quick experiment with DECoNT:
 
-Just follow the steps above, instead of analysis.txt use DATA_chaisson_hg00733.xcnv file provided. Also instead of /sambamba_read_depths/ directory use the directory in this link and repeat the steps.
+Just follow the steps above, instead of analysis.txt use DATA_chaisson_hg00733.xcnv file provided. Also instead of /sambamba_read_depths/ directory use the directory in this <a href="https://drive.google.com/open?id=1UqXs3rB3XcVRq5GB-zcJsyDW086igaS4">**link**</a> and repeat the steps.
+
 
 ## Citations
 
