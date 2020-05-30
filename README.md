@@ -55,11 +55,18 @@ Furkan Ozden, Can Alkan, A. Ercument Cicek
 - keras-metrics 1.1.0
 - cudnn 7.6.5 (optional, for gpu support only)
 
-For easy requirement handling, you can use DECoNT_env.yml file to initialize appropriate environment with conda using:
+For easy requirement handling, you can use DECoNT_linux.yml or DECoNT_mac.yml files to initialize appropriate environment with conda using:
 ```shell
-$ conda env create -f DECoNT_env.yml
-$ conda activate DECoNT_env
+$ conda env create -f DECoNT_linux.yml
+$ conda activate DECoNT_linux
 ```
+
+or 
+```shell
+$ conda env create -f DECoNT_mac.yml
+$ conda activate DECoNT_mac
+```
+
 ---
 
 ## Features
