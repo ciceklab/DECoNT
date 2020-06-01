@@ -25,6 +25,10 @@ Furkan Ozden, Can Alkan, A. Ercument Cicek
 
 ---
 
+## Reproducing the results given in the manuscript and toy example
+
+To reproduce results given in the manuscript, <a href="https://www.biorxiv.org/content/10.1101/2020.05.09.086082v1" target="_blank">**Polishing Copy Number Variant Calls on Exome Sequencing Data via Deep Learning**</a>, please refer to https://zenodo.org/record/3865380#.XtVRchMzZds. This repository also includes the toy example tutorial.
+
 
 ## Table of Contents 
 
