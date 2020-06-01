@@ -157,11 +157,11 @@ $ sambamba depth window -w 1000 HG00096.wes.bam > /home/user/sambamba_read_depth
 
 ### Step-3: Run DECoNT on data obtained in Step-1 and Step-2
 
-- Requirements of DECoNT must be satisfied. For easy handling of requirements download DECoNT_env.yml file and initialize environment of DECoNT as follows (optional).
+- Requirements of DECoNT must be satisfied. For easy handling of requirements download DECoNT_mac.yml or DECoNT_linux.yml file and initialize environment of DECoNT as follows (optional).
 
 ```shell
-$ conda env create -f DECoNT_env.yml
-$ conda activate DECoNT_env
+$ conda env create -f DECoNT_mac.yml
+$ conda activate DECoNT_mac
 ```
 
 - Note: for the scope of this tutorial, we assume that WES CNV calls are obtained using XHMM software. If you obtain WES CNV calls using any other software just change the -cn argument to that software.
