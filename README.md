@@ -54,10 +54,10 @@ To reproduce results given in the manuscript, <a href="https://www.biorxiv.org/c
 - NumPy 1.16.2
 - Pandas 1.0.0
 - TensorFlow 1.14.0
-- Keras-gpu 2.2.4
+- Keras 2.2.4
 - Scikit-Learn 0.22.1
 - keras-metrics 1.1.0
-- cudnn 7.6.5 (optional, for gpu support only)
+- cudnn 7.6.5 (optional, for gpu support only) (keras-gpu 2.2.4 requires it)
 
 For easy requirement handling, you can use DECoNT_linux.yml or DECoNT_mac.yml files to initialize appropriate environment with conda using:
 ```shell
